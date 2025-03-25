@@ -63,17 +63,3 @@ NovaRide/
 └── ...          # Other configuration files
 ```
 
-## Contributing
-Contributions are welcome! If you want to contribute:
-- Fork the repository
-- Create a new branch for your feature or bug fix
-- Submit a pull request
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Author
-- **MD. Shahid Afridi**  
-  - [GitHub](https://github.com/Aapush01)
-  - [LinkedIn](https://www.linkedin.com/in/md-shahidafridi/)
-  - Email: mdshahidafridia31@gmail.com
