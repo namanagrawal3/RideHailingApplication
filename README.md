@@ -1,4 +1,4 @@
-# NovaRide
+# RideHailingApplication
 
 NovaRide is an Uber-like application built using the **MERN stack** (MongoDB, Express, React, Node.js) with **Google Maps** integration. This project provides users with a seamless ride-booking experience, complete with real-time location tracking and navigation.
 
